@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="smokejan: mods, servidores e motores de jogo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="1" stop-color="#1a1410"/>
+    </linearGradient>
+    <linearGradient id="smoke" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#e8743b" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#e8743b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#smoke)" stroke-width="3" stroke-linecap="round">
+    <path d="M980 230 C 940 180, 1020 150, 980 100 S 1010 40, 985 0">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M980 230 C 940 180, 1020 150, 980 100 S 1010 40, 985 0;M980 230 C 1020 180, 945 150, 995 100 S 960 40, 1000 0;M980 230 C 940 180, 1020 150, 980 100 S 1010 40, 985 0"/>
+    </path>
+    <path d="M1040 230 C 1080 170, 1000 140, 1045 90 S 1020 30, 1050 0">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M1040 230 C 1080 170, 1000 140, 1045 90 S 1020 30, 1050 0;M1040 230 C 1000 170, 1085 140, 1030 90 S 1075 30, 1035 0;M1040 230 C 1080 170, 1000 140, 1045 90 S 1020 30, 1050 0"/>
+    </path>
+    <path d="M1100 230 C 1065 185, 1135 155, 1095 110 S 1125 50, 1100 0">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M1100 230 C 1065 185, 1135 155, 1095 110 S 1125 50, 1100 0;M1100 230 C 1135 185, 1060 155, 1110 110 S 1075 50, 1115 0;M1100 230 C 1065 185, 1135 155, 1095 110 S 1125 50, 1100 0"/>
+    </path>
+  </g>
+  <text x="64" y="118" fill="#f2ece4" font-family="Consolas, 'Courier New', monospace" font-size="64" font-weight="700">smokejan</text>
+  <text x="66" y="162" fill="#e8743b" font-family="Consolas, 'Courier New', monospace" font-size="24">mods · servidores · motores de jogo</text>
+</svg>

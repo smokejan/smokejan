@@ -7,6 +7,7 @@
 From television lighting and live entertainment to digital content, launch operations, game systems and independent projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-smokejan-181717?style=flat&logo=github)](https://github.com/smokejan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janisio_Junior-0A66C2?style=flat)](https://www.linkedin.com/in/janisio-junior-0716502b9/)
 [![WildMU](https://img.shields.io/badge/Project-WildMU-243447?style=flat)](https://wildmu.com)
 
 </div>
@@ -25,8 +26,8 @@ I enjoy moving between creative and operational work: understanding what needs t
 
 ## Professional experience
 
-### Inside The Show
-**Content · Audiovisual · Launch & Event Operations**
+### Content & Digital Operations Analyst · Inside The Show
+**May 2024 – Present**
 
 My work involves different parts of the content and campaign operation:
 
@@ -45,6 +46,16 @@ Worked across different areas of television entertainment, including:
 - **Drama** — lighting for narrative and fictional productions.
 - **Shows** — visual lighting for show productions.
 - **Entertainment** — lighting design for entertainment programming.
+
+Selected productions: *Cheias de Charme*, *Salve Jorge*, *Ferdinando Show*, *Big Brother Brasil 17*, *Pega Pega*, *Segundo Sol*, *Verão 90*, *Éramos Seis*, *Salve-se Quem Puder*, *Um Lugar ao Sol*, *Passaporte para Liberdade*, *Travessia*, *Fuzuê*, *Os Outros* and *As Five*.
+
+### Technician · Light
+**2013 – Jul 2016**
+
+## Education
+
+- **Photography** — Estácio, 2017 – 2020
+- **Electrotechnics** — UFFE, 2010 – 2012
 
 ## Focus areas
 

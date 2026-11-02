@@ -1,26 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="smokejan: mods, servidores e motores de jogo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="smokejan — building games, systems and digital projects">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0f14"/>
-      <stop offset="1" stop-color="#1a1410"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1018"/>
+      <stop offset="1" stop-color="#171d29"/>
     </linearGradient>
-    <linearGradient id="smoke" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0" stop-color="#e8743b" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#e8743b" stop-opacity="0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb36b"/>
+      <stop offset="1" stop-color="#e56d42"/>
     </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#aab6c8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#e56d42" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#e56d42" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="240" fill="url(#bg)"/>
-  <g fill="none" stroke="url(#smoke)" stroke-width="3" stroke-linecap="round">
-    <path d="M980 230 C 940 180, 1020 150, 980 100 S 1010 40, 985 0">
-      <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M980 230 C 940 180, 1020 150, 980 100 S 1010 40, 985 0;M980 230 C 1020 180, 945 150, 995 100 S 960 40, 1000 0;M980 230 C 940 180, 1020 150, 980 100 S 1010 40, 985 0"/>
-    </path>
-    <path d="M1040 230 C 1080 170, 1000 140, 1045 90 S 1020 30, 1050 0">
-      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M1040 230 C 1080 170, 1000 140, 1045 90 S 1020 30, 1050 0;M1040 230 C 1000 170, 1085 140, 1030 90 S 1075 30, 1035 0;M1040 230 C 1080 170, 1000 140, 1045 90 S 1020 30, 1050 0"/>
-    </path>
-    <path d="M1100 230 C 1065 185, 1135 155, 1095 110 S 1125 50, 1100 0">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M1100 230 C 1065 185, 1135 155, 1095 110 S 1125 50, 1100 0;M1100 230 C 1135 185, 1060 155, 1110 110 S 1075 50, 1115 0;M1100 230 C 1065 185, 1135 155, 1095 110 S 1125 50, 1100 0"/>
-    </path>
+  <rect width="1200" height="260" fill="url(#background)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="130" rx="300" ry="220" fill="url(#glow)"/>
+  <path d="M0 226H1200" stroke="#e56d42" stroke-opacity=".55"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".8">
+    <path d="M850 70h78l22 22v76h-100z"/>
+    <path d="M950 92h78l22 22v76h-100z" opacity=".55"/>
+    <path d="M1050 70h78v98h-78z" opacity=".35"/>
+    <path d="M875 112l18 18-18 18M915 112l-18 18 18 18"/>
+    <path d="M975 137h48M1070 108h36M1070 128h36M1070 148h24" opacity=".75"/>
   </g>
-  <text x="64" y="118" fill="#f2ece4" font-family="Consolas, 'Courier New', monospace" font-size="64" font-weight="700">smokejan</text>
-  <text x="66" y="162" fill="#e8743b" font-family="Consolas, 'Courier New', monospace" font-size="24">mods · servidores · motores de jogo</text>
+  <g fill="#e56d42" opacity=".8">
+    <circle cx="850" cy="70" r="3"/><circle cx="950" cy="92" r="3"/><circle cx="1050" cy="70" r="3"/>
+    <circle cx="1128" cy="168" r="3"/><circle cx="950" cy="190" r="3"/>
+  </g>
+  <text x="72" y="119" fill="#f3f5f8" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">smokejan</text>
+  <rect x="74" y="143" width="46" height="4" rx="2" fill="url(#accent)"/>
+  <text x="74" y="184" fill="#b9c2d0" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="1.5">GAMES  /  SYSTEMS  /  DIGITAL PROJECTS</text>
+  <text x="74" y="222" fill="#788596" font-family="Consolas, monospace" font-size="13">BUILD  ·  EXPERIMENT  ·  IMPROVE</text>
 </svg>

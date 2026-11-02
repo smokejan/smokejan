@@ -17,7 +17,7 @@ From television lighting and live entertainment to digital content, launch opera
 
 I'm a creative and hands-on professional with a background that brings together **audiovisual production, entertainment, digital communication, games and technology**.
 
-I spent 10 years working at **TV Globo as a Light Designer**, contributing to productions across drama, shows and entertainment. That experience shaped the way I think about visual composition, atmosphere, timing and audience experience.
+I spent 17 years working at **TV Globo as a Light Designer**, first as a contractor and from 2016 on staff, contributing to productions across drama, shows and entertainment. That experience shaped the way I think about visual composition, atmosphere, timing and audience experience.
 
 Today, I work at **Inside The Show**, combining content production, audiovisual work, launch and event operations, and communication automation. Alongside that, I develop independent projects involving games, multiplayer environments, software tools and digital products.
 
@@ -38,7 +38,7 @@ My work involves different parts of the content and campaign operation:
 - **Communication automation** — working with ManyChat flows, live-session invitations and tracked links using Short.io and UTM parameters.
 
 ### Light Designer · TV Globo
-**10 years**
+**2007 – 2024 · 17 years**
 
 Worked across different areas of television entertainment, including:
 
